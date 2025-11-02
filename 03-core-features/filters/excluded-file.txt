@@ -1,0 +1,1 @@
+#path-filter-exclude, test 23 into excluded file
